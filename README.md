@@ -1,6 +1,6 @@
 ![N|Solid](https://www.mealsuite.com/a/img/mealsuite-logo.png)
 
-# Backend Developer Assignment
+# Backend Developer Assignment - Senior level
 
 ### Simple Photo Gallery Application
 
